@@ -76,9 +76,9 @@ A curated comparison of commercial platforms offering autonomous agents, hosted 
 
 ## 🐙 Open-Source GitHub Projects
 
-Explore the top open-source repositories powering the modern agentic ecosystem, sorted by GitHub stars.
+Explore the top open-source repositories powering the modern agentic ecosystem, sorted by GitHub_Stars.
 
-| Project | Stars | Description |
+| Project | GitHub_Stars | Description |
 | :--- | :--- | :--- |
 | **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) | 🤖 Pioneer autonomous open-source agent framework driven by goal decomposition and continuous execution loops. |
 | **[Browser-use](https://github.com/browser-use/browser-use)** | [![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers) | 🌐 Open-source library enabling AI agents to interactively control web browsers for scraping, forms, and workflows. |
