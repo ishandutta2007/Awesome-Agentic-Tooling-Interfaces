@@ -93,6 +93,7 @@ Explore the top open-source repositories powering the modern agentic ecosystem, 
 | **[smolagents](https://github.com/huggingface/smolagents)** | [![Stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers) | ⚡ Hugging Face's lightweight, code-first agent framework emphasizing simplicity, direct tool execution, and speed. |
 | **[BabyAGI](https://github.com/yoheinakajima/babyagi)** | [![Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social&color=white)](https://github.com/yoheinakajima/babyagi/stargazers) | 👶 Minimalist benchmark AI task management system utilizing OpenAI and vector databases to prioritize and execute tasks. |
 | **[Microsoft Agent Framework](https://github.com/microsoft/agent-framework)** | [![Stars](https://img.shields.io/github/stars/microsoft/agent-framework?style=social&color=white)](https://github.com/microsoft/agent-framework/stargazers) | 🪟 Microsoft's enterprise-grade multi-language runtime unifying AutoGen and Semantic Kernel patterns for scalable agent systems. |
+| **[agent-qa](https://vostride.com)** ([GitHub](https://github.com/vostride/agent-qa)) | [![Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social&color=white)](https://github.com/vostride/agent-qa/stargazers) | 🧪 Open source QA agent for web, Android and iOS with CLI/MCP interfaces, screenshot evidence, persistent memidex memory and evidence-gated self-improvement (FSL-1.1-ALv2). |
 
 ---
 
